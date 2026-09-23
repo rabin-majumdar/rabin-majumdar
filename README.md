@@ -23,7 +23,7 @@ Hi! I'm **Rabin Majumdar**, a Frontend Developer 💻 based in Dhaka, Bangladesh
 
 <br />
 
-🚀 **Recent Work:** Built TypeScript-based web projects & Next.js Dev-stack
+🚀 **Recent Work:** Built TypeScript-based web projects & Next.js [Dev-stack](https://your-project-link.com)
 
 * 💡 **Core Focus:** Crafting clean, accessible, and high-performance web interfaces.
 * 🛠️ **Tech Stack:** Specializing in `React.js`, `Next.js`, `TypeScript`, `JavaScript`, and `Tailwind CSS`.
